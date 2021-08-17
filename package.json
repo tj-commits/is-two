@@ -1,12 +1,26 @@
 {
   "name": "is-two",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "license": "MIT",
   "author": {
     "name": "chuuuuu"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chuuuuu/is-two.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chuuuuu/is-two/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "branches": [
+      "master"
+    ]
+  },
+  "homepage": "https://github.com/chuuuuu/is-two",
   "keywords": [
     "is",
     "two"

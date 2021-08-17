@@ -2,6 +2,12 @@
 
 This is an efficient package help you determine if a number is two or not!
 
+## Install
+
+```bash
+npm install --save is-odd
+```
+
 ## Usage
 
 ```typescript

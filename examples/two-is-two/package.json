@@ -1,0 +1,13 @@
+{
+  "name": "one-is-not-two",
+  "version": "1.0.0",
+  "description": "one is not two!",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "is-two": "^1.0.1"
+  }
+}

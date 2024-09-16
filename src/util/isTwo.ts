@@ -1,3 +1,5 @@
+import two from "two"
+
 export const isTwo = (num: number) => {
-  return num === 2;
-};
+  return num === two()
+}

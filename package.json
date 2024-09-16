@@ -28,5 +28,8 @@
   "scripts": {
     "build": "rm -r dist & tsc",
     "build:watch": "tsc --watch"
+  },
+  "dependencies": {
+    "two": "^1.0.7"
   }
 }
